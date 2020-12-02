@@ -14,5 +14,3 @@ Clone the project, Then
 
 I have not added sessions into the routes.py file yet however this code should be sufficient enough to
 easily integrate to firebase.
-
-Please star and follow my repository :)
