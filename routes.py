@@ -4,13 +4,13 @@ from app import app
 import os
 
 config = {
-    "apiKey": "AIzaSyA6iyXIug79EHElqvtEbWmMLa2upq5E3q8",
-    "authDomain": "connect-ad366.firebaseapp.com",
-    "databaseURL": "https://connect-ad366.firebaseio.com",
-    "projectId": "connect-ad366",
-    "storageBucket": "connect-ad366.appspot.com",
-    "messagingSenderId": "377240638078",
-    "appId": "1:377240638078:web:5aecbd0bf1cf38f2ad3e2f"
+    "apiKey": "",
+    "authDomain": "",
+    "databaseURL": "",
+    "projectId": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": ""
 }
 
 firebase = pyrebase.initialize_app(config)
